@@ -1,4 +1,9 @@
+<p align="center">
+    <a href="https://github.com/SkinCanOrg"><img src="/profile/shoot.png" alt="Z3R0" width="640"/></a>
+</p>
+
 <h1 align="center">SkinCan (C22-PS096 - Bangkit Product-based Capstone Project)</h1>
+
 <h3 align="center">A <b>libre</b> skin cancer detection android app.</h3>
 
 ## Team
