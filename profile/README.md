@@ -9,7 +9,7 @@
 ## About
 **SkinCanOrg** (`C22-PS096`) is a **Bangkit product-based capstone project** team consists of **6 members**.
 
-## Team Members
+### Team Members
 
 | Name                       | Student ID | Learning Path      |
 |----------------------------|------------|--------------------|
