@@ -9,6 +9,15 @@
 ## About
 **SkinCanOrg** (`C22-PS096`) is a **Bangkit product-based capstone project** team consists of **6 members**.
 
+### Download
+Download our app from our [releases page](https://github.com/SkinCanOrg/SkinCan/releases).
+
+### Components
+This project is consists of 3 main components handled by each learning path,
+- [Android App](https://github.com/SkinCanOrg/SkinCan) - Mobile Development
+- [TensorFlow Model](https://github.com/SkinCanOrg/SkinCan-Model) - Machine Learning
+- [API](https://github.com/SkinCanOrg/SkinCan-API) (Replaced by Firebase) - Cloud Computing
+
 ### Team Members
 
 | Name                       | Student ID | Learning Path      |
